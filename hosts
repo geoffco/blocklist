@@ -22,3 +22,7 @@ ff02::3 ip6-allhosts
 
 # Facebook/Meta
 0.0.0.0 threads.net
+
+# Truth Social
+truthsocial\.com
+.*\.truthsocial\.com
