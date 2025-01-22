@@ -24,5 +24,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 threads.net
 
 # Truth Social
-truthsocial\.com
-.*\.truthsocial\.com
+0.0.0.0 truthsocial.com
