@@ -1,2 +1,8 @@
 # Blocklist for Pihole
 
+# X/Twitter
+0.0.0.0 x.com
+0.0.0.0 twitter.com
+
+# Facebook/Meta
+0.0.0.0 threads.net
