@@ -25,3 +25,7 @@ ff02::3 ip6-allhosts
 
 # Truth Social
 0.0.0.0 truthsocial.com
+
+# Toxic
+0.0.0.0 4chan.org
+0.0.0.0 4chan.com
